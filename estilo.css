@@ -8,3 +8,9 @@ body{
 #titulo{
     text-align: center;
 }
+
+h2{
+    background-color: #B3A742;
+    padding: 5px;
+    color: #FFFFFF;
+}
